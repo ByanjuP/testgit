@@ -1,0 +1,8 @@
+*.pyc
+myenv/
+settings.py
+db.sqlite3
+migrations
+media/
+static/
+__pycache__/
